@@ -1,6 +1,6 @@
 # notes-app
 
-A basic note app with composition API
+A basic notes app with composition API
 
 ## Recommended IDE Setup
 
